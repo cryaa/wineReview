@@ -1,12 +1,11 @@
 # Wine Review
----
 
 ## Introduction
 On the heels of the 70% increase in wine consumption since the early 1990s , US residents have a plethora of choices when it comes to what type of bottle to purchase.  Producers also face a challenge in understanding which attributes wine drinkers find important. 
 
 In order to maximize future wine sales, wine makers must understand the characteristics of high quality wine in order to design their next vintage.
 
-**Objective**
+**Objective**<br>
 utilize sommelier descriptions / reviews in order to determine the terms associated with highest rated wines.
 
 Information was scraped from Wine Enthusiast by users on Kaggle:
